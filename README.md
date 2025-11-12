@@ -18,5 +18,5 @@
 - **개발환경:** Unity
 - **게임설명영상:** (https://drive.google.com/file/d/1HX0k3_Wo5zf83SJ23M7BdbMj3W6iSiLa/view?usp=sharing) [Google Drive]
 
-## 3. 진행 계획
+## 3. 발전 계획
 - Unity 게임 → 웹페이지로 게임 소개 페이지 제작
