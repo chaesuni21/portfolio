@@ -8,6 +8,7 @@
 - **기술스택:** Java (JSP), HTML, CSS  
 - **개발환경:** Eclipse, Apache Tomcat  
 - **상태:** 기본 동작 구현 중
+- **웹페이지실행화면:** ![웹페이지 실행화면](Wep-Calendar/Calendar화면.png)  
   
 ## 2. Unity 2D 플랫포머 게임 (Pixel Adventure Game)
 - Unity 2D를 활용하여 제작한 횡스크롤 플랫포머 게임  
